@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend development projects using Python, FastAPI, SQLAlchemy, and MySQL<br>👯 I’m looking to collaborate on backend, web development, and open-source projects<br>🤝 I’m looking for help with system design, scalable backend systems, and cloud technologies<br>🌱 I’m currently learning Docker, Kubernetes, cloud technologies, and advanced backend development<br>💬 Ask me about Python, FastAPI, REST APIs, SQL, MySQL, Git, and backend development<br>⚡ Fun fact: I enjoy turning ideas into working projects and breaking things just to figure out how they work 😄
+🔭 I’m currently working on backend development projects using Python, FastAPI, SQLAlchemy, and MySQL<br>👯 I’m looking to collaborate on backend, web development, and open-source projects<br>🤝 I’m looking for help with system design, scalable backend systems, and cloud technologies<br>🌱 I’m currently learning Docker, Kubernetes, cloud technologies, and advanced backend development<br>💬 Ask me about Python, FastAPI, REST APIs, SQL, MySQL, and backend development<br>⚡ Fun fact: I enjoy turning ideas into working projects and breaking things just to figure out how they work 😄
 
 
 ## 🌐 Socials:
